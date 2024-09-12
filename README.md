@@ -5,7 +5,7 @@
     <span>Davi Nunes</span>
 </h1>
 
-<p align="justify"> Rio grande do Sul - Brazil 
+<p align="justify"> Rio Grande do Sul - Brazil 
 
 ### Connect 
 
