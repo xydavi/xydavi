@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://static.vecteezy.com/system/resources/previews/013/089/848/original/purple-lens-flare-png.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://static.vecteezy.com/system/resources/previews/013/089/848/original/purple-lens-flare-png.png">
 
 <h1>
     <img align="center" alt="Logo" width="36px" src="https://www.iconpacks.net/icons/3/free-icon-purple-person-10780.png"></a>
